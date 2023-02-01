@@ -20,5 +20,6 @@
 关键字 `keywords.txt` (只会合并匹配上关键字的节目)
 
 ## 订阅地址
-
-`https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TW-M3U/main/merged.m3u`
+~~~
+https://gh-proxy.com/https://raw.githubusercontent.com/T00700/TW-M3U/main/merged.m3u
+~~~

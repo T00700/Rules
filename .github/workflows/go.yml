@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron:  '1 0-23/4 * * *'
+    - cron:  '*/1 * * * *'
 
 jobs:
 
@@ -31,8 +31,6 @@ jobs:
 
     - name: Commit
       run: |
-        git config --local user.email "popeyelau@gmail.com"
-        git config --local user.name "Popeye Lau"
         git pull
         git add .
         git commit -m "update merged.m3u"

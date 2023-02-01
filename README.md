@@ -8,7 +8,7 @@
 
 2. 开启 `Workflow` 读写权限
 
-- 打开 https://github.com/你的名字/itv/settings/actions
+- 打开 https://github.com/你的名字/TW-M3U/settings/actions
 - 将`Workflow permissions` 勾选 `Read and write permissions`
 
 3. 新建一个 GitHub Token

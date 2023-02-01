@@ -4,7 +4,7 @@
 
 ## 自定义
 
-1. Fork - [ ] [popeyelau仓库](https://github.com/popeyelau/itv)
+1. Fork [popeyelau仓库](https://github.com/popeyelau/itv/)
 
 2. 开启 `Workflow` 读写权限
 

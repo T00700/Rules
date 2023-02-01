@@ -1,6 +1,6 @@
 # M3U Merger
 
-'转自https://github.com/popeyelau/itv'
+`转自https://github.com/popeyelau/itv`
 
 ## 自定义
 

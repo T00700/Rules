@@ -1,130 +1,132 @@
 #EXTM3U
-#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
-http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="港澳台", 中天综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台", 中天新闻台
+http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
 #EXTINF:-1 group-title="##台-新聞##", TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="##台-新聞##", TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼歌曲輪播
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 group-title="##台-新聞##", 中天新聞 2(循環直播)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #EXTINF:-1 group-title="##台-綜合##", TVBS亞洲
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="##台-綜合##", TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="##台-綜合##", TVBS亞洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+#EXTINF:-1 group-title="##台-綜合##", 東森超視34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="##台-新聞##", 中天新聞 2(循環直播)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #EXTINF:-1 group-title="##台-綜合##", 東森購物2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 #EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 group-title="##台-新聞##", 中天新聞
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
-#EXTINF:-1 group-title="##台-綜合##", TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="##台-綜合##", 東森超視34.5
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
-http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼歌曲輪播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 #EXTINF:-1 group-title="##台-綜合##", 東森購物3
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 group-title="##電影##", 東森電影
-http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 #EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
-http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-#EXTINF:-1 group-title="##台-綜合##", 中天亞洲
-http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+http://123.51.230.108:18515/.m3u8
 #EXTINF:-1 group-title="##台-新聞##", TVBS新聞
-http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-#EXTINF:-1 group-title="##台-綜合##", 東森戲劇 HD
-http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-#EXTINF:-1 group-title="##台-綜合##", 東森綜合 HD
-http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MF8F6128293261282932&ct=19346&tsum=67766f11470c9d3e751c1b094ecdc886
-#EXTINF:-1 group-title="##台-綜合##", 中天亞洲
-http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
-http://50.7.168.234:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
-#EXTINF:-1 group-title="##台-綜合##", 東森超視 HD
-http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
-http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-#EXTINF:-1 group-title="##台-新聞##", TVBS HD
-http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 group-title="##台-綜合##", 中天亞洲
-http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-#EXTINF:-1 group-title="##台-綜合##", 東森戲劇 HD
-http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-#EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
-http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-#EXTINF:-1 group-title="##台-綜合##", 中天娛樂 HD
-http://198.16.64.10:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-#EXTINF:-1 group-title="##台-綜合##", 中天娛樂 HD
-http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
-#EXTINF:-1 group-title="##台-綜合##", 東森綜合 HD
-http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 group-title="##台-綜合##", 東森超視 HD
-http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 group-title="##電影##", 東森洋片 HD
-http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-#EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
-http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
-http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-#EXTINF:-1 group-title="##電影##", 東森洋片 HD
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 #EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
 http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 #EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
 http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 group-title="##台-綜合##", 東森戲劇 HD
+http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
+http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+#EXTINF:-1 group-title="##台-新聞##", 東森LIVE
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 group-title="##台-綜合##", 東森綜合 HD
+http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 group-title="##台-新聞##", TVBS新聞
+http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+#EXTINF:-1 group-title="##台-綜合##", 東森戲劇 HD
+http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
+http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
+http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MF8F6128293261282932&ct=19346&tsum=67766f11470c9d3e751c1b094ecdc886
+#EXTINF:-1 group-title="##台-新聞##", 東森LIVE
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+#EXTINF:-1 group-title="##台-綜合##", 中天娛樂 HD
+http://198.16.64.10:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1 group-title="##電影##", 東森洋片 HD
+http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 group-title="##電影##", 東森電影
+http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+#EXTINF:-1 group-title="##台-綜合##", 東森綜合 HD
+http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 group-title="##台-綜合##", 東森超視 HD
+http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+#EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
+http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
+http://50.7.168.234:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
+#EXTINF:-1 group-title="##電影##", 東森洋片 HD
+http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 #EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼 HD
 http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+#EXTINF:-1 group-title="##電影##", 東森電影
+http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
+http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 group-title="##台-綜合##", 中天亞洲
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
+http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 group-title="##台-綜合##", 東森超視 HD
+http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 #EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼
-https://git.io/JgYON
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+#EXTINF:-1 group-title="##電影##", 東森電影
+http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 group-title="##台-綜合##", 東森超視 HD
+http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 #EXTINF:-1 group-title="##台-新聞##", 中天新聞
 https://git.io/Jgkpy
-#EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
-http://123.51.230.108:18515/.m3u8
+#EXTINF:-1 group-title="##幼幼&動漫##", 東森幼幼
+https://git.io/JgYON
 #EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
 http://107.151.203.111:2209/135/us50.php?id=ztz
 #EXTINF:-1 group-title="##台-新聞##", 中天新聞 HD(油管)
 https://www.youtube.com/watch?v=_QbRXRnHMVY
-#EXTINF:-1 group-title="##台-綜合##", 東森超視 HD
-http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-#EXTINF:-1 group-title="##台-綜合##", 東森購物1台
-http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
+http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+#EXTINF:-1 group-title="##台-綜合##", 東森購物2台
+http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
+http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
 #EXTINF:-1 group-title="##台-新聞##", TVBS新聞 HD
 http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
-#EXTINF:-1 group-title="##台-綜合##", TVBS精采台
-http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
 #EXTINF:-1 group-title="##台-新聞##", 東森財經 HD
 http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
 #EXTINF:-1 group-title="##人文##", 中天美食旅遊
 http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##", TVBS精采台
+http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##", 東森購物1台
+http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 #EXTINF:-1 group-title="##台-新聞##", 東森新聞
 http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
-#EXTINF:-1 group-title="##台-新聞##", 中天新聞
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1 group-title="##台-綜合##", 中天綜合 HD
-http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
-#EXTINF:-1 group-title="##台-綜合##", TVBS歡樂台 HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-#EXTINF:-1 group-title="##台-綜合##", 東森購物2台
-http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾", TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾", 中天新闻
@@ -133,20 +135,18 @@ http://2023.stream-link.org/playlist/cti_news
 http://116.11.140.3:8181/tsfile/live/1201_1.m3u8
 #EXTINF:-1 group-title="港澳台", 东森新闻美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台", TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="测试4", 中天娛樂[1920*1080]
-http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 #EXTINF:-1 group-title="亚洲", 中天亚洲台
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571212
 #EXTINF:-1 group-title="亚洲", TVBS 亚洲台
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571185
 #EXTINF:-1 group-title="亚洲", TVBS ASIA
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153507
-#EXTINF:-1 group-title="未分类", 中天新闻台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 #EXTINF:-1 , TVBS
 http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类", 中天新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类", TVBS台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台", TVBS欢乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 #EXTINF:-1 group-title="未分类", TVBS台HD
@@ -155,9 +155,3 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 #EXTINF:-1 group-title="未分类", 中天新闻台HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1 group-title="未分类", TVBS台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="港澳台", 中天综合台
-http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台", 中天新闻台
-http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8

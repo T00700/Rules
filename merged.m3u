@@ -7,6 +7,8 @@ http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 http://116.11.140.3:8181/tsfile/live/1201_1.m3u8
 #EXTINF:-1 group-title="港澳台", 东森新闻美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="测试2", 东森新闻
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 #EXTINF:-1 group-title="测试4", 東森新聞[1280*720]
 http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 group-title="##台-新聞##", 中天新聞
@@ -19,9 +21,7 @@ http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226
 https://git.io/Jgkpy
 #EXTINF:-1 group-title="##台-新聞##", 中天新聞 HD(油管)
 https://www.youtube.com/watch?v=_QbRXRnHMVY
+#EXTINF:-1 group-title="##台-新聞##", 中天新聞
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台", 中天新闻台
 http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
-#EXTINF:-1 group-title="未分类", 中天新闻台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1 group-title="未分类", 中天新闻台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8

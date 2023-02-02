@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
 https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
 https://raw.githubusercontent.com/jiangxi0221/iptv/main/fq.m3u
-https://raw.githubusercontent.com/shannychuang/TVList/main/TW.m3u
 https://raw.githubusercontent.com/ljhnchina/IPTV/main/IPTV.m3u
 https://raw.githubusercontent.com/xxyys/xxyys666.github.io/main/IPTV.M3U

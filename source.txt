@@ -3,3 +3,5 @@ https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
 https://raw.githubusercontent.com/jiangxi0221/iptv/main/fq.m3u
 https://raw.githubusercontent.com/ljhnchina/IPTV/main/IPTV.m3u
 https://raw.githubusercontent.com/xxyys/xxyys666.github.io/main/IPTV.M3U
+https://raw.githubusercontent.com/huanghuivip1/iptv/main/8M.m3u
+https://raw.githubusercontent.com/boly4189/tv1/master/zb.m3u

@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="未分类", 中天新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分类", 中天新闻台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUUyaCB4bC3ph1e2tBEKtwULyZMnvx9VPRrRGs1lA", 東森新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675686932/ei/tJ_gY4mGBIeaugLx2KfACA/ip/70.37.167.34/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/tx/24438930/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANEzbIgC4gIcYf_q-znJ8LFwVYmdHm7xA3Y7y4_k0GvqAiEA6djunDLBg1D6SjX_8TrYO6YSGuS8TiCuYKemZq4QDpM%3D/file/index.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://yt3.ggpht.com/lkv_JjIEVspP2e_mEuwq_4UD0YKlZ-XaeULuGXdVx7yzbkQLykUxTNhTUEpMxD9poXHNvWDi", 中天新聞2台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675686934/ei/tp_gY8_TEYac6QLouLGADg/ip/70.37.167.34/id/WPfPjbOLNfE.4/source/yt_live_broadcast/requiressl/yes/tx/24436456/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24462255/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJMW5F_tHbA5edkEq-hQAK-s5HztZ-coBmCqpRD1D1QHAiEA4fRrEMZoqNhR7ukzIgnJfh4rB6kqJwh0ayMqXxJJ5i8%3D/file/index.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXdGT00xj8j1jQBVsHis7ml8FiyHJPt4-Odz392hw" tvg-id="中天新闻", 中天新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675686933/ei/tZ_gY86EDqPn2_gP4r6mwAU/ip/70.37.167.34/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/tx/24436457/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMq_pY5ulcGn-Rlvmh97KGce4klrUYNm-stNZFyVtpjECIQCnIz8nXKgsN7i5HL-tG_CWYUTNzbw4YUh4jXgoobhk0Q%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXdGT00xj8j1jQBVsHis7ml8FiyHJPt4-Odz392hw", 中天新聞 Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675686933/ei/tZ_gY-bOL5LiuQLZz4nwCw/ip/70.37.167.34/id/3ax0yHpLJ74.1/source/yt_live_broadcast/requiressl/yes/tx/24276394/txs/24276394%2C24276395%2C24276396%2C24276397%2C24276398%2C24276399/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24462256/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALDBV0D29I7al1SS0MOLAhA082m3mb6a_WKpZcnUk82OAiAmOEnYwlK9dVN0SoK-gBCwjcG345uObk6C9ymiD7XXsw%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="港澳台", 东森新闻美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾", 中天新闻
 http://2023.stream-link.org/playlist/cti_news
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾", 东森新闻
@@ -7,27 +21,17 @@ http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder", 中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder", 东森新闻4K
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder", 中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder", 东森新闻台
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
 #EXTINF:-1 group-title="台湾", 東森新聞
 https://git.io/Jgkps
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder", 东森新闻4K
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder", 东森新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 group-title="台湾", 中天新聞
 https://git.io/Jgkpy
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣 🇹🇼️丨ladder", 东森新闻台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUUyaCB4bC3ph1e2tBEKtwULyZMnvx9VPRrRGs1lA", 東森新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675654012/ei/HB_gY-T3H8vP8wSg1J7QBg/ip/172.176.163.145/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDgJSijIq7g9eu700I87BbdCYFnZ344egU6gIY-c-qZUCID7CjPc_BlSHnnsej8Tfg_cdm6ONlJq1PdpCrsJHPg4A/file/index.m3u8
-#EXTINF:-1 group-title="台湾新闻" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJXdGT00xj8j1jQBVsHis7ml8FiyHJPt4-Odz392hw" tvg-id="中天新闻", 中天新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675654013/ei/HR_gY93aIpmQhwaQoqv4BA/ip/172.176.163.145/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL7jKQwCES4INuLtzryYID0F16wu6ALcI-7LDNtZT24iAiBPsf8a1Kzad_FVO0hdaWyibTLQ0caPC66wGGmIEuoMMQ%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="港澳台", 东森新闻美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="未分类", 中天新闻台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1 group-title="未分类", 中天新闻台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8

@@ -32,6 +32,29 @@ type Track struct {
 	Tags   []Tag
 }
 
+func (m *Track) buildTags(group *Group) {
+	var logo string
+	for _, tag := range m.Tags {
+		if tag.Name == "tvg-logo" {
+			logo = tag.Value
+		}
+	}
+	m.Tags = []Tag{
+		{
+			Name:  "group-title",
+			Value: group.Group,
+		},
+		{
+			Name:  "tvg-name",
+			Value: m.Name,
+		},
+		{
+			Name:  "tvg-logo",
+			Value: logo,
+		},
+	}
+}
+
 // Parse parses an m3u playlist with the given file name and returns a Playlist
 func Parse(fileName string) (Playlist, error) {
 	var f io.ReadCloser
@@ -98,7 +121,7 @@ func Parse(fileName string) (Playlist, error) {
 				errors.New("URI provided for playlist with no tracks")
 
 		} else {
-			playlist.Tracks[len(playlist.Tracks)-1].URI = strings.Trim(line, " ")
+			playlist.Tracks[len(playlist.Tracks)-1].URI = strings.TrimSpace(line)
 		}
 	}
 
@@ -121,7 +144,7 @@ func MarshallInto(p Playlist, into *bufio.Writer) error {
 	into.WriteString("#EXTM3U\n")
 	for _, track := range p.Tracks {
 		into.WriteString("#EXTINF:")
-		into.WriteString(fmt.Sprintf("%d ", track.Length))
+		into.WriteString(fmt.Sprintf("%d, ", track.Length))
 		for i := range track.Tags {
 			if i == len(track.Tags)-1 {
 				into.WriteString(fmt.Sprintf("%s=%q", track.Tags[i].Name, track.Tags[i].Value))
@@ -129,7 +152,9 @@ func MarshallInto(p Playlist, into *bufio.Writer) error {
 			}
 			into.WriteString(fmt.Sprintf("%s=%q ", track.Tags[i].Name, track.Tags[i].Value))
 		}
-		into.WriteString(", ")
+		if len(track.Tags) > 0 {
+			into.WriteString(", ")
+		}
 
 		into.WriteString(fmt.Sprintf("%s\n%s\n", track.Name, track.URI))
 	}

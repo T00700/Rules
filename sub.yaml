@@ -1,5 +1,5 @@
 #sub.yaml
-- group: '港澳台'
+- group: 'TVBS'
   urls:
     - "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
     - "https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"
@@ -11,4 +11,30 @@
     - "https://telegram-feiyangdigital.v1.mk/gudou.m3u"
     - "https://tvos.ml/keep/tw"
     - "https://tvos.ml/keep/youtube"
-  keywords: "tvbs,TVBS,东森新闻,東森新聞,中天新闻,中天新聞" #
+  keywords: "tvbs,TVBS" 
+- group: '东森新闻'
+  urls:
+    - "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
+    - "https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"
+    - "https://raw.githubusercontent.com/jiangxi0221/iptv/main/fq.m3u"
+    - "https://raw.githubusercontent.com/ljhnchina/IPTV/main/IPTV.m3u"
+    - "https://raw.githubusercontent.com/xxyys/xxyys666.github.io/main/IPTV.M3U"
+    - "https://raw.githubusercontent.com/huanghuivip1/iptv/main/8M.m3u"
+    - "https://raw.githubusercontent.com/boly4189/tv1/master/zb.m3u"
+    - "https://telegram-feiyangdigital.v1.mk/gudou.m3u"
+    - "https://tvos.ml/keep/tw"
+    - "https://tvos.ml/keep/youtube"
+  keywords: "东森新闻,東森新聞"
+- group: '中天新闻'
+  urls:
+    - "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"
+    - "https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"
+    - "https://raw.githubusercontent.com/jiangxi0221/iptv/main/fq.m3u"
+    - "https://raw.githubusercontent.com/ljhnchina/IPTV/main/IPTV.m3u"
+    - "https://raw.githubusercontent.com/xxyys/xxyys666.github.io/main/IPTV.M3U"
+    - "https://raw.githubusercontent.com/huanghuivip1/iptv/main/8M.m3u"
+    - "https://raw.githubusercontent.com/boly4189/tv1/master/zb.m3u"
+    - "https://telegram-feiyangdigital.v1.mk/gudou.m3u"
+    - "https://tvos.ml/keep/tw"
+    - "https://tvos.ml/keep/youtube"
+  keywords: "中天新闻,中天新聞" #

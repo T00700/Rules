@@ -11,7 +11,7 @@
     - "https://telegram-feiyangdigital.v1.mk/gudou.m3u"
     - "https://tvos.ml/keep/tw"
     - "https://tvos.ml/keep/youtube"
-  keywords: "tvbs,TVBS" 
+  keywords: "TVBS新闻,TVBS新聞,TVBSHD,TVBS 56" 
 - group: '东森新闻'
   urls:
     - "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"

@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="", TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="", TVBS
-https://git.io/JgYl2
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png", TVBS
-https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="", TVBS
 https://epg.pw/stream/c69d1cc112b64d809dcd6b9359153d668abbca671102437a920d36072581f7c6.ctv
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png", TVBS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8
+#EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="", TVBS
+https://git.io/JgYl2
+#EXTINF:-1, group-title="TVBS" tvg-name="TVBS" tvg-logo="", TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS 56台" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJWtrhsucsVbyL-cko3BSBJ1u4jk_izsOXQFWdBPDQ", TVBS 56台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676021892/ei/JLzlY92HMYPB8wTCi6eYCw/ip/52.226.126.49/id/YvdcZ_jpLXE.3/source/yt_live_broadcast/requiressl/yes/tx/24429555/txs/24249503%2C24429555%2C24435245/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDs43celcm_TUEQxr5OhBPm8HE3K21MUyesX23qeNUMECICF8jKmpvr3af8d3urzPZvUm6KtPlZzzBsnbhPLf30iN/file/index.m3u8
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS ASIA" tvg-logo="", TVBS ASIA
@@ -30,12 +30,12 @@ https://git.io/Jgkp1
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png", TVBS新闻
 http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
+#EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png", TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png", TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="TVBS" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
@@ -54,9 +54,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1, group-title="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 东森新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 #EXTINF:-1, group-title="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 东森新闻台
-https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
-#EXTINF:-1, group-title="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 东森新闻台
 http://2023.stream-link.org/playlist/ebc_news
+#EXTINF:-1, group-title="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 东森新闻台
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
 #EXTINF:-1, group-title="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 东森新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 #EXTINF:-1, group-title="东森新闻" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png", 东森新闻台
@@ -76,16 +76,16 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676021888/ei/I
 #EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png", 中天新闻
 http://2023.stream-link.org/playlist/cti_news
 #EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻" tvg-logo="", 中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻" tvg-logo="", 中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻" tvg-logo="", 中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻" tvg-logo="", 中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻" tvg-logo="", 中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻台HD" tvg-logo="", 中天新闻台HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 #EXTINF:-1, group-title="中天新闻" tvg-name="中天新闻台HD" tvg-logo="", 中天新闻台HD
 http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-#EXTINF:-1, group-title="东森新闻" tvg-name="東森新聞" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUUyaCB4bC3ph1e2tBEKtwULyZMnvx9VPRrRGs1lA", 東森新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676021886/ei/HrzlY-6gLYbghgbi4rTgDA/ip/52.226.126.49/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKMv9yF9-qAXeJjV5j2OBRjD1YLzlJ9a5wvJp6EZoS6XAiA0RaVjkrRCXsuAiwkR2K8_pVsUvdswmI9dVimtfl4BYA%3D%3D/file/index.m3u8
 #EXTINF:-1, group-title="东森新闻" tvg-name="東森新聞" tvg-logo="", 東森新聞
 https://git.io/Jgkps
+#EXTINF:-1, group-title="东森新闻" tvg-name="東森新聞" tvg-logo="https://yt3.ggpht.com/ytc/AL5GRJUUyaCB4bC3ph1e2tBEKtwULyZMnvx9VPRrRGs1lA", 東森新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676021886/ei/HrzlY-6gLYbghgbi4rTgDA/ip/52.226.126.49/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKMv9yF9-qAXeJjV5j2OBRjD1YLzlJ9a5wvJp6EZoS6XAiA0RaVjkrRCXsuAiwkR2K8_pVsUvdswmI9dVimtfl4BYA%3D%3D/file/index.m3u8

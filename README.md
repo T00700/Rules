@@ -27,5 +27,6 @@
 
 ## 订阅地址
 ~~~
+https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u
 https://ghproxy.com/https://raw.githubusercontent.com/T00700/TW-M3U/main/merged.m3u
 ~~~

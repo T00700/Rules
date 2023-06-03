@@ -1,22 +1,18 @@
 #EXTM3U
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻HD
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png", TVBS新闻台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18386c7e-b0ef-4fb1-89f1-0168fe04bc71.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png", TVBS新闻台
-http://awei.beimua.com/iptv.php?id=54
 #EXTINF:-1, group-title="港澳台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png", 东森新闻台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png", 东森新闻台
-http://awei.beimua.com/iptv.php?id=44
 #EXTINF:-1, group-title="港澳台" tvg-name="东森新闻美洲" tvg-logo="", 东森新闻美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="中天新闻" tvg-logo="", 中天新闻

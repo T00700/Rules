@@ -2,13 +2,13 @@
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS.png", TVBS新聞
 https://tv.iill.top/youtube/m_dhMSvUCIc
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻HD
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台" tvg-name="东森新闻美洲" tvg-logo="", 东森新闻美洲

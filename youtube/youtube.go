@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	m "itv/merge"
+	"itv/merge"
 	"net/http"
 	"net/url"
 	"os"

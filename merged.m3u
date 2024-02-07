@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="", TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="TVBS新闻HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻HD
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="东森新闻美洲" tvg-logo="", 东森新闻美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1, group-title="港澳台" tvg-name="中天新闻" tvg-logo="", 中天新闻
-https://epg.pm/stream/526f164cdabe04bee921865bb05037255c22ccbeb50cafd3a4ec83cc00514447.m3u8
+#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png", 辽宁卫视
+http://175.178.236.58:8088/china/ysp.php?ch=lnws
+#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png", 辽宁卫视
+https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
+#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视 (576p)" tvg-logo="", 辽宁卫视 (576p)
+http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视 (576p)" tvg-logo="", 辽宁卫视 (576p)
+http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv

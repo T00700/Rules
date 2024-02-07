@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png", 辽宁卫视
 http://175.178.236.58:8088/china/ysp.php?ch=lnws
-#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png", 辽宁卫视
-https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
-#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视 (576p)" tvg-logo="", 辽宁卫视 (576p)
-http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
 #EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视 (576p)" tvg-logo="", 辽宁卫视 (576p)
 http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv
+#EXTINF:-1, group-title="辽宁春晚_02.08 19:35" tvg-name="辽宁卫视 (576p)" tvg-logo="", 辽宁卫视 (576p)
+http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8

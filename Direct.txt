@@ -1,6 +1,3 @@
-# 其他规则
-host-suffix,snapdrop.net,Direct
-
 # 影视规则
 host-wildcard,*czzy*.com,Direct
 host-suffix,tt58.tv,Direct
@@ -113,6 +110,7 @@ host-suffix,byteimg.com,Direct
 host-suffix,fanqienovel.com,Direct
 host-suffix,novel.snssdk.com,Direct
 host-keyword,novel-sign.byteimg.com,Direct
+host-suffix,janpn.info,Direct
 
 # 正则规则
 regex, ^https:\/\/p\d+-novel-sign\.byteimg\.com, Direct

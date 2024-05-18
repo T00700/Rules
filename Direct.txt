@@ -1,44 +1,6 @@
 # 影视规则
 host-wildcard,*czzy*.com,Direct
-host-suffix,tt58.tv,Direct
-host-suffix,tvoled.net,Direct
-host-suffix,hula8.net,Direct
-host-suffix,nmdvd.com,Direct
-host-suffix,emsdn.cn,Direct
-host-suffix,nmvod.cn,Direct
-host-suffix,nmddd.com,Direct
-host-suffix,cnmcom.com,Direct
-host-suffix,xiangdao.me,Direct
-host-suffix,subaibaiys.com,Direct
-host-suffix,instantts.top,Direct
-host-suffix,ddys.pro,Direct
-host-suffix,jiageys.top,Direct
-host-keyword,cdnlz,Direct
-host-suffix,lzapi.com,Direct
-host-suffix,lziapi.com,Direct
-host-suffix,lzzyimg.com,Direct
-host-suffix,lzzypic.com,Direct
-host-suffix,liangzipic.com,Direct
-host-suffix,ffzyapi.com,Direct
-host-keyword,ffzyread,Direct
-host-keyword,ffzy-play,Direct
-host-keyword,ffzy-onlin,Direct
-host-suffix,image8899.net,Direct
-host-keyword,suonizy,Direct
-host-keyword,sxzyhuij,Direct
 host-suffix,zxzja.com,Direct
-host-wildcard,*sportsteam*.com,Direct
-host-suffix,saohuo.tv,Direct
-host-suffix,shdy2.com,Direct
-host-suffix,serv00.net,Direct
-host-suffix,rinhome.com,Direct
-host-suffix,psmp3.com,Direct
-host-suffix,xsmp3.com,Direct
-host,m3u8.feisuzyapi.com,Direct
-host,api.tiankongapi.com,Direct
-host,api.guangsuapi.com,Direct
-host,www.hongniuzy2.com,Direct
-host,ikunzyapi.com,Direct
 
 # 书源规则
 host-suffix,166xs.co,Direct

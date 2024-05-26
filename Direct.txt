@@ -14,6 +14,7 @@ host-suffix,wbsz.org,Direct
 host-suffix,sososhu.com,Direct
 host-suffix,2biquw.com,Direct
 host-suffix,2biqu.com,Direct
+host-suffix,22biqu.com,Direct
 host-suffix,kanouzhou.com,Direct
 host-suffix,feibzw.com,Direct
 host-suffix,369book.com,Direct

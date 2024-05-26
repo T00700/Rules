@@ -79,6 +79,7 @@ host-suffix,xiaoshuo.com.tw,Direct
 host-suffix,tcknh.com,Direct
 host-suffix,74txt.cc,Direct
 host-suffix,74txt.com,Direct
+host-suffix,75zww.com,Direct
 host-suffix,sjwx.info,Direct
 host-suffix,aixiatxt.com,Direct
 

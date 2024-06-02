@@ -88,6 +88,3 @@ host-suffix,aixiatxt.com,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct
-
-# 苹果规则
-host-suffix,testflight.apple.com

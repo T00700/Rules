@@ -1,3 +1,4 @@
+## 最好开启 "插入资源" (该资源内容在本地资源之前加载)
 # 影视规则
 host-wildcard,*czzy*.com,Direct
 host-suffix,zxzja.com,Direct

@@ -89,3 +89,8 @@ host-suffix,baiheks.com,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct
+
+# 局域网互传
+host-suffix,snapdrop.net,Direct
+host-suffix,drop.ioiox.com,Direct
+

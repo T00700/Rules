@@ -86,6 +86,7 @@ host-suffix,sjwx.info,Direct
 host-suffix,jpxs123.cc,Direct
 host-suffix,aixiatxt.com,Direct
 host-suffix,baiheks.com,Direct
+host-suffix,pi12345.com,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

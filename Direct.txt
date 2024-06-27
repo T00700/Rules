@@ -89,6 +89,7 @@ host-suffix,baiheks.com,Direct
 host-suffix,pi12345.com,Direct
 host-suffix,uuks5.com,Direct
 host-suffix,mayitxt.org,Direct
+host-suffix,web3v.vip,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

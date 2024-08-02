@@ -94,6 +94,7 @@ host-suffix,mayitxt.org,Direct
 host-suffix,web3v.vip,Direct
 host-suffix,ujxsw.net,Direct
 host-suffix,shyosun.com,Direct
+host-suffix,caimoge8.net,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

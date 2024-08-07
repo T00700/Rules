@@ -1,4 +1,7 @@
 ## 最好开启 "插入资源" (该资源内容在本地资源之前加载)
+#苹果规则
+host-suffix,testflight.apple.com,Direct
+
 # 影视规则
 host-wildcard,*czzy*.com,Direct
 host-suffix,zxzja.com,Direct

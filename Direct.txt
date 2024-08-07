@@ -92,6 +92,7 @@ host-suffix,jpxs123.cc,Direct
 host-suffix,aixiatxt.com,Direct
 host-suffix,baiheks.com,Direct
 host-suffix,pi12345.com,Direct
+host-suffix,shensuw.com,Direct
 host-suffix,uuks5.com,Direct
 host-suffix,mayitxt.org,Direct
 host-suffix,web3v.vip,Direct

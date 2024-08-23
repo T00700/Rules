@@ -104,6 +104,7 @@ host-suffix,vvss.net,Direct
 host-suffix,bookben99.cc,Direct
 host-suffix,soeo.net,Direct
 host-suffix,5299txt.net,Direct
+host-suffix,xiaoshuowanben.com,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

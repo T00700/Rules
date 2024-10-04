@@ -53,7 +53,6 @@ host-suffix,liudatxt.net,Direct
 host-suffix,28dushu.com,Direct
 host-suffix,bqzw789.com,Direct
 host-suffix,sto.cx,Direct
-host-suffix,69shu.xyz,Direct
 host-suffix,daowenge.com,Direct
 host-suffix,zuocaimiji.com,Direct
 host-suffix,x23qb.com,Direct

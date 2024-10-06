@@ -106,6 +106,7 @@ host-suffix,5299txt.net,Direct
 host-suffix,xiaoshuowanben.com,Direct
 host-suffix,qhyrzs.com,Direct
 host-suffix,69shu88.com,Direct
+host-suffix,23uswx.org,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

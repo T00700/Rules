@@ -107,6 +107,7 @@ host-suffix,xiaoshuowanben.com,Direct
 host-suffix,qhyrzs.com,Direct
 host-suffix,69shu88.com,Direct
 host-suffix,23uswx.org,Direct
+host-suffix,x23us.us,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

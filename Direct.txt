@@ -26,7 +26,6 @@ host-suffix,369book.cc,Direct
 host-suffix,369book.com,Direct
 host-suffix,151txt.com,Direct
 host-suffix,pytxt.com,Direct
-host-suffix,ttkan.co,Direct
 host-suffix,55xs.co,Direct
 host-suffix,55xs.org,Direct
 host-suffix,dajiadu8.com,Direct

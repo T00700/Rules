@@ -1,5 +1,5 @@
-Direct.txt  直连请求
+Direct.txt  QX直连请求
 
-Reject.txt  拒绝请求
+Reject.txt  QX拒绝请求
 
-NCSR.json   净化规则
+NCSR.json   用心读书正文净化规则

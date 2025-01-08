@@ -3,7 +3,7 @@
 ```
 https://apps.apple.com/cn/app/id1569793141
 ```
-- [ ] [NCSR V6.9](https://ghproxy.cn/https://raw.githubusercontent.com/T00700/Rules/master/NCSR.json)
+- [ ] [Novel Text Clean V6.9](https://ghproxy.cn/https://raw.githubusercontent.com/T00700/Rules/master/NCSR.json)
 ```
 https://ghproxy.cn/https://raw.githubusercontent.com/T00700/Rules/master/NCSR.json
 ```

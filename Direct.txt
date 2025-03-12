@@ -115,6 +115,7 @@ host-suffix,xwurexs.com,Direct
 host-suffix,xscodes.icu,Direct
 host-suffix,3qtxt.com,Direct
 host-suffix,shoujix.com,Direct
+host-suffix,qbmfxs.com,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

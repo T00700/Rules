@@ -119,6 +119,7 @@ host-suffix,qbmfxs.com,Direct
 host-suffix,fanqxsw.com,Direct
 host-suffix,rrssk.com,Direct
 host-suffix,kelexs.com,Direct
+host-suffix,txt97.org,Direct
 
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct

@@ -9,6 +9,7 @@ host-suffix,heimuer.tv,Direct
 host-suffix,heimuer.pro,Direct
 
 # 书源规则
+host-suffix,bytecdn.cn,Direct
 host-suffix,rainnet.top,Direct
 host-suffix,hotxww.com,Direct
 host-suffix,166xs.co,Direct

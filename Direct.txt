@@ -9,7 +9,14 @@ host-suffix,heimuer.tv,Direct
 host-suffix,heimuer.pro,Direct
 
 # 书源规则
+# 番茄
 host-suffix,bytecdn.cn,Direct
+host-suffix,byteimg.com,Direct
+host-suffix,fanqienovel.com,Direct
+host-suffix,novel.snssdk.com,Direct
+host-keyword,novel-sign.byteimg.com,Direct
+
+#其他
 host-suffix,rainnet.top,Direct
 host-suffix,hotxww.com,Direct
 host-suffix,166xs.co,Direct
@@ -78,10 +85,6 @@ host-suffix,118book.co,Direct
 host-suffix,zerobook.me,Direct
 host-suffix,83zws.com,Direct
 host-suffix,1ab0.com,Direct
-host-suffix,byteimg.com,Direct
-host-suffix,fanqienovel.com,Direct
-host-suffix,novel.snssdk.com,Direct
-host-keyword,novel-sign.byteimg.com,Direct
 host-suffix,janpn.info,Direct
 host-suffix,xiaoshuo.com.tw,Direct
 host-suffix,tcknh.com,Direct

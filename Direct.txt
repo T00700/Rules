@@ -18,6 +18,7 @@ host-suffix,novel.snssdk.com,Direct
 host-keyword,novel-sign.byteimg.com,Direct
 
 #其他
+host-suffix,ttkan.co,Direct
 host-suffix,rainnet.top,Direct
 host-suffix,hotxww.com,Direct
 host-suffix,166xs.co,Direct

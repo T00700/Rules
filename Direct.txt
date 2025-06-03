@@ -99,6 +99,10 @@ host-suffix,txt97.org,Direct
 # 其他规则
 host-suffix,web3v.vip,Direct
 
+# EPG
+host-suffix,112114.eu.org,Direct
+host-suffix,51zmt.top,Direct
+
 # 皮皮虾规则
 host-suffix,ib.snssdk.com,Direct
 

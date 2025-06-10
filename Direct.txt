@@ -19,6 +19,8 @@ host-keyword,novel-sign.byteimg.com,Direct
 
 # 小说
 host-suffix,newqy.com,Direct
+host-suffix,nauqmf.com,Direct
+host-suffix,quledu.com,Direct
 host-suffix,zzs5.net,Direct
 host-suffix,zzs5.com,Direct
 host-suffix,ttkan.co,Direct

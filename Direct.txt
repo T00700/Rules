@@ -18,6 +18,7 @@ host-suffix,novel.snssdk.com,Direct
 host-keyword,novel-sign.byteimg.com,Direct
 
 # 小说
+host-suffix,biquy.com,Direct
 host-suffix,newqy.com,Direct
 host-suffix,nauqmf.com,Direct
 host-suffix,quledu.com,Direct

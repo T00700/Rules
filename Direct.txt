@@ -97,6 +97,7 @@ host-suffix,qbmfxs.com,Direct
 host-suffix,fanqxsw.com,Direct
 host-suffix,rrssk.com,Direct
 host-suffix,kelexs.com,Direct
+host-suffix,myrrcdn.com,Direct
 host-suffix,txt97.org,Direct
 
 # 其他规则

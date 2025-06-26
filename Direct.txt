@@ -100,6 +100,7 @@ host-suffix,rrssk.com,Direct
 host-suffix,kelexs.com,Direct
 host-suffix,myrrcdn.com,Direct
 host-suffix,txt97.org,Direct
+host-suffix,hgq26.org,Direct
 
 # 其他规则
 host-suffix,web3v.vip,Direct

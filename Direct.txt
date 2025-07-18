@@ -102,6 +102,7 @@ host-suffix,myrrcdn.com,Direct
 host-suffix,txt97.org,Direct
 host-suffix,hgq26.org,Direct
 host-suffix,deqixs.com,Direct
+host-suffix,fd80s.com,Direct
 
 # 其他规则
 host-suffix,web3v.vip,Direct

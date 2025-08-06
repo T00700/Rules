@@ -106,6 +106,7 @@ host-suffix,fd80s.com,Direct
 host-suffix,22biqu.com,Direct
 host-suffix,qthza.com,Direct
 host-suffix,axxsw.net,Direct
+host-suffix,58kanshu.cc,Direct
 
 # 其他规则
 host-suffix,web3v.vip,Direct

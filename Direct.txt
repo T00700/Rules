@@ -60,7 +60,7 @@ host-suffix,daowenge.com,Direct
 host-suffix,zuocaimiji.com,Direct
 host-suffix,x23qb.com,Direct
 host-suffix,mianfei22.com,Direct
-host-suffix,sudugu.com,Direct
+host-suffix,sudugu.org,Direct
 host-suffix,txtduo.net,Direct
 host-suffix,mysealib.com,Direct
 host-suffix,dd123.cc,Direct

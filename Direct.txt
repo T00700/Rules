@@ -3,10 +3,8 @@
 host-suffix,testflight.apple.com,Direct
 
 # 影视规则
-host-wildcard,*czzy*.com,Direct
-host-suffix,zxzja.com,Direct
-host-suffix,heimuer.tv,Direct
-host-suffix,heimuer.pro,Direct
+host-wildcard,*ryplay*.com,Direct
+host-suffix,ryzyw.com,Direct
 
 # 书源规则
 # 番茄

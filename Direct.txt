@@ -6,6 +6,7 @@ host-suffix,testflight.apple.com,Direct
 host-wildcard,*ryplay*.com,Direct
 host-suffix,ryzyw.com,Direct
 host-wildcard,*sportsteam*.com,Direct
+host-suffix,czzymovie.com,Direct
 
 # 书源规则
 # 番茄

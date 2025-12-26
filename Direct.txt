@@ -5,6 +5,8 @@ host-suffix,testflight.apple.com,Direct
 # 影视规则
 host-wildcard,*ryplay*.com,Direct
 host-suffix,ryzyw.com,Direct
+host-wildcard,*vip.ffzy*.com,Direct
+host-wildcard,*img.ffzy*.com,Direct
 host-wildcard,*sportsteam*.com,Direct
 host-suffix,czzymovie.com,Direct
 

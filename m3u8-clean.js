@@ -1,13 +1,16 @@
-let lines = $response.body.split('\n');
+let body = $response.body;
+if (!body) {
+  $done({});
+  return;
+}
+
+let lines = body.split('\n');
 
 let out = [];
 let buffer = [];
 let buffering = false;
 let bufferDuration = 0;
 
-// 【关键参数】
-// 小于等于这个时长的 DISCONTINUITY 段 → 判定为广告
-// 非凡 / 量子 / FF 实测最稳区间：22–28
 const AD_MAX_DURATION = 28;
 
 function flushBuffer(keep) {
@@ -33,17 +36,11 @@ for (let i = 0; i < lines.length; i++) {
     const m = line.match(/^#EXTINF:([\d.]+)/);
     if (m) bufferDuration += parseFloat(m[1]);
 
-    // 到达一个完整分段
     if (
       bufferDuration > AD_MAX_DURATION ||
       lines[i + 1]?.startsWith('#EXT-X-DISCONTINUITY')
     ) {
-      // 短段 → 广告 → 丢弃
-      if (bufferDuration > AD_MAX_DURATION) {
-        flushBuffer(true);
-      } else {
-        flushBuffer(false);
-      }
+      flushBuffer(bufferDuration > AD_MAX_DURATION);
     }
   } else {
     out.push(line);

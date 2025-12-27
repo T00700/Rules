@@ -118,7 +118,6 @@ host-suffix,30dushu.com,Direct
 
 # 其他规则
 host-suffix,web3v.vip,Direct
-host-suffix,heiliao.com,Direct
 
 # EPG
 host-suffix,112114.eu.org,Direct

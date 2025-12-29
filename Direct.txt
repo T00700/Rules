@@ -12,6 +12,7 @@ host-suffix,czzymovie.com,Direct
 host-suffix,fq.537098.xyz,Direct
 host-suffix,maoyanimg.top,Direct
 host-suffix,247kan.com,Direct
+host-suffix,ting39.com,Direct
 
 # 书源规则
 # 番茄

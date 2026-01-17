@@ -15,6 +15,7 @@ host-suffix,247kan.com,Direct
 host-suffix,ting39.com,Direct
 host-suffix,yfvod.com,Direct
 host-suffix,qlplayer.cyou,Direct
+host-suffix,jquery.com,Direct
 
 # 书源规则
 # 番茄

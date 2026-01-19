@@ -119,6 +119,9 @@ host-suffix,58kanshu.cc,Direct
 host-suffix,dingdianxh.com,Direct
 host-suffix,30dushu.com,Direct
 host-suffix,libahao.com,Direct
+host-suffix,shusan.xyz,Direct
+host-suffix,shusan.icu,Direct
+host-suffix,shusan.cn,Direct
 
 
 # 其他规则

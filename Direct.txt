@@ -22,9 +22,9 @@ host-suffix,ddbbffcdn.com,Direct
 host-suffix,bfllvip.com,Direct
 host-suffix,picbf.com,Direct
 host-wildcard,bfzy*.tv,Direct
-host-wildcard,fengbao*.com,Direct
+host-wildcard,*fengbao*.com,Direct
 host-wildcard,rrcdnbf*.com,Direct
-host-wildcard,bvvvvvvv*.com,Direct
+host-wildcard,*bvvvvvvv*.com,Direct
 
 # 书源规则
 # 番茄

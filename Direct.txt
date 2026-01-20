@@ -20,6 +20,7 @@ host-suffix,jquery.com,Direct
 host-suffix,vipuuvip.com,Direct
 host-suffix,ddbbffcdn.com,Direct
 host-suffix,bfllvip.com,Direct
+host-suffix,picbf.com,Direct
 host-wildcard,bfzy*.tv,Direct
 host-wildcard,fengbao*.com,Direct
 host-wildcard,rrcdnbf*.com,Direct

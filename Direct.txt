@@ -26,6 +26,8 @@ host-wildcard,bfzy*.tv,Direct
 host-wildcard,*.fengbao*.com,Direct
 host-wildcard,*.rrcdnbf*.com,Direct
 host-wildcard,*.bvvvvvvv*.com,Direct
+host-suffix,symx.club,Direct
+
 
 # 书源规则
 # 番茄

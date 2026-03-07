@@ -135,6 +135,7 @@ host-suffix,shusan.xyz,Direct
 host-suffix,shusan.icu,Direct
 host-suffix,shusan.cn,Direct
 host-suffix,min-yuan.com,Direct
+host-suffix,s1wl.com,Direct
 
 
 # 其他规则

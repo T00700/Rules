@@ -27,6 +27,7 @@ host-wildcard,*.fengbao*.com,Direct
 host-wildcard,*.rrcdnbf*.com,Direct
 host-wildcard,*.bvvvvvvv*.com,Direct
 host-suffix,symx.club,Direct
+host-suffix,bqgns.com,Direct
 
 
 # 书源规则

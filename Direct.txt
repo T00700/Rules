@@ -28,7 +28,7 @@ host-wildcard,*.rrcdnbf*.com,Direct
 host-wildcard,*.bvvvvvvv*.com,Direct
 host-suffix,symx.club,Direct
 host-suffix,bqgns.com,Direct
-
+host-suffix,zz123.com,Direct
 
 # 书源规则
 # 番茄

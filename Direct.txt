@@ -139,6 +139,7 @@ host-suffix,min-yuan.com,Direct
 host-suffix,s1wl.com,Direct
 host-suffix,pinbige.com,Direct
 host-suffix,huanxiangxs.com,Direct
+host-suffix,indevs.in,Direct
 
 
 # 其他规则

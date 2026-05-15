@@ -29,6 +29,7 @@ host-wildcard,*.bvvvvvvv*.com,Direct
 host-suffix,symx.club,Direct
 host-suffix,bqgns.com,Direct
 host-suffix,zz123.com,Direct
+host-suffix,picdg.co,Direct
 
 # 书源规则
 # 番茄
